@@ -25,6 +25,7 @@ class Transfer
       self.status = "complete"
     else
       self.status = "rejected"
+      
     end 
     
   end 
